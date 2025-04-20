@@ -18,10 +18,12 @@ Superstore dataset (`Sample - Superstore.csv`) cleaned and converted for analysi
 - Slicer: Region
 
 ## Key Insights:
-- West region had the highest sales.
-- Office Supplies led in total sales.
-- November had peak sales overall.
-- South region showed stable growth.
+INSIGHTS FROM SUPERSTORE DASHBOARD:
+
+1. The West region consistently leads in sales across multiple months.
+2. Office Supplies category has the highest total sales, followed closely by Technology.
+3. Sales peaked in November, likely due to seasonal shopping trends.
+4. The South region, while lower in sales, maintains a steady growth trend across months.
 
 ## Files Included
 - Cleaned_Superstore.csv
